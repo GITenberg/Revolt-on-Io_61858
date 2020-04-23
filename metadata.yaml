@@ -1,0 +1,39 @@
+_repo: Revolt-on-Io_61858
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lynch, Don (Artist)
+    gutenberg_agent_id: '51621'
+    url: http://www.gutenberg.org/2009/agents/51621
+creator:
+  author:
+    agent_name: Bond, Nelson S.
+    aliases:
+    - Bond, Nelson Slade
+    - Danzell, George
+    - Bond, Nelson
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '34095'
+    url: http://www.gutenberg.org/2009/agents/34095
+    wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
+description: ''
+gutenberg_issued: '2020-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Io (Satellite) -- Fiction'
+- !lcsh 'Revolutionaries -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Weapons -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Spies -- Fiction'
+- GITenberg
+title: Revolt on Io
+url: http://www.gutenberg.org/ebooks/61858
